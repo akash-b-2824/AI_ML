@@ -1,0 +1,6 @@
+name=input("what is your name? ")
+dob=int(input("what year did u spawned? "))
+height=float(input("what is your height in feet? "))
+print("Hello, my name is", name)
+print("I will be",2030-dob, "years old in 2030.")
+print("My height is", height, "feet.")
